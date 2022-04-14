@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/basicapp/basicapp.iml" filepath="$PROJECT_DIR$/basicapp/basicapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/helloapp/helloapp.iml" filepath="$PROJECT_DIR$/helloapp/helloapp.iml" />
     </modules>
   </component>
