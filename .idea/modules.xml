@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basicapp/basicapp.iml" filepath="$PROJECT_DIR$/basicapp/basicapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flow-control-app/flow-control-app.iml" filepath="$PROJECT_DIR$/flow-control-app/flow-control-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/helloapp/helloapp.iml" filepath="$PROJECT_DIR$/helloapp/helloapp.iml" />
     </modules>
   </component>
