@@ -20,5 +20,8 @@ public class Test01 {
         System.out.println(c2.price);
         c2.star();
         c2.run();
+
+        System.out.println(c);//存地址
+        System.out.println(c2);
     }
 }
